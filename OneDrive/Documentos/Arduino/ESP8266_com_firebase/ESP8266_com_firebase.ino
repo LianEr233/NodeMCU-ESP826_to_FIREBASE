@@ -9,8 +9,8 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "Eliane lemos"
-#define WIFI_PASSWORD "pinheiro2019"
+#define WIFI_SSID "xxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxx"
 
 //API Key do projeto: ANONIMO
 #define API_KEY "AIzaSyCZ51ugW42XdR-jJ6OAJhYTPLcjsABbalw"
